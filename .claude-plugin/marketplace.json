@@ -1,0 +1,20 @@
+{
+  "name": "windia-skills",
+  "owner": {
+    "name": "WINDIA 雲迪"
+  },
+  "metadata": {
+    "description": "WINDIA 雲迪企业VI品牌形象设计系统 · Claude 技能市场",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "windia-vi-showcase-cn",
+      "source": "./plugins/windia-vi-showcase-cn",
+      "description": "WINDIA 雲迪企业VI品牌形象设计系统 · 成果预览：标志、名片、信纸、PPT封面、报告封面、工作证、展架、品牌手册等样稿展示。",
+      "version": "1.0.0",
+      "category": "design",
+      "keywords": ["VI", "brand", "branding", "logo", "business-card", "企业VI", "品牌形象", "品牌手册", "名片", "WINDIA", "雲迪"]
+    }
+  ]
+}
