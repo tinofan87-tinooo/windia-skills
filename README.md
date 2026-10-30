@@ -43,4 +43,4 @@ plugins/windia-vi-showcase-cn/
 
 ## 完整版
 
-想要完整成套品牌VI企业视觉识别系统，请前往Coze（扣子）平台搜索【WINDIA雲迪企业VI品牌形象设计系统】购买。
+想要完整成套品牌VI企业视觉识别系统，请前往扣子平台搜索【WINDIA雲迪企业VI品牌形象设计系统】。咨询邮箱：esofanwentao@gmail.com
